@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌟 Hi there, I'm Yazan Aladib 🌟</h1>
-  <img src="./media/wb.png" alt="Introductory Photo" width="400"/>
+  <img src="./media/wb.png" alt="Introductory Photo" width=full/>
 </div>
 
 ---
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40" alt="Qt Creator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
@@ -49,9 +49,16 @@
 
 ---
 
-<div align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=2yazan&color=blue)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2yazan&style=flat-square&color=0ca4a5" alt="Visitor Count"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/2yazan/2yazan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2yazan&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
+
 
 ---
 
