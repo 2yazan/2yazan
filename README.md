@@ -64,7 +64,7 @@
 
 ### 📫 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com](https://www.linkedin.com/in/yazanaladib/" target="_blank">
+  <a href="https://www.linkedin.com/in/yazanaladib/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/____yzn____" target="_blank">
